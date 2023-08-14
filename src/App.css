@@ -1,0 +1,22 @@
+#Flex{
+  display: flex;
+  justify-content: space-around;
+}
+.Shr{
+  position: relative;
+  left: 90;
+}
+.spc{
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+  text-transform: capitalize;
+  text-decoration: underline;
+  color: white;
+}
+body{
+  background-color: rgb(50, 50, 50);
+}
+#btns{
+  display: flex;
+  justify-content: space-between;
+}
